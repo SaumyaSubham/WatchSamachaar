@@ -12,8 +12,8 @@ Before starting the code, First upload the dataset!
 
 Then there are steps to be followed:
 
-Importing Libraries and Datasets
-Data Preprocessing
-Preprocessing and analysis of News column
-Converting text into Vectors
-Model training, Evaluation, and Prediction
+1. Importing Libraries and Datasets
+2. Data Preprocessing
+3. Preprocessing and analysis of News column
+4. Converting text into Vectors
+5. Model training, Evaluation, and Prediction
