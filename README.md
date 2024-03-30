@@ -6,7 +6,7 @@ In this project, We are going to create a Fake News Detection model using Machin
 
 Nowadays, Fake News is a severe concerns for everyone. We can't identify the truth within hundreds of hundreds new articles in our daily life.
 
-Although, It is a DEMO model which has less numbers of datasets. So,Here we will try to solve this issue of Fakes News with the help of machine learning in Python.
+Although, It is a DEMO model which has less numbers of articles in the datasets. So,Here we will try to solve this issue of Fakes News with the help of machine learning in Python.
 
 Before starting the code, First upload the dataset!
 
