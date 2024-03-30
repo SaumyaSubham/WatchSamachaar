@@ -1,6 +1,8 @@
-# fake_news_detection
+# news_watch
 
-Today, We are going to create Fake News Detection using Machine Language
+First of all, Welcome Everyone!
+This is a project of Machine Learning and 
+In this project, We are going to create a Fake News Detection model using Machine Language
 
 Nowadays, Fake News is a severe concerns for everyone. We can't identify the truth within hundreds of hundreds new articles in our daily life.
 
