@@ -1,4 +1,4 @@
-# news_watch
+# WatchSamachaar
 
 First of all, Welcome Everyone!
 This is a project of Machine Learning and 
